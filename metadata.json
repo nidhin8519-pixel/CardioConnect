@@ -1,0 +1,5 @@
+{
+  "name": "CardioConnect AI",
+  "description": "Advanced ECG and PCG analysis tool with manual and Arduino integration for cardiac disease classification.",
+  "requestFramePermissions": []
+}
